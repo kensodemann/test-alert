@@ -1,0 +1,7 @@
+{
+  "name": "test-alert",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
